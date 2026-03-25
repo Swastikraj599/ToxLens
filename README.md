@@ -87,7 +87,3 @@ Run each notebook top to bottom in order.
 ## Hackathon
 
 Built for CodeCure AI Hackathon — Track A: Drug Toxicity Prediction.
-```
-
-
-cairosvg
