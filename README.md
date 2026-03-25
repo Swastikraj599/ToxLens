@@ -6,10 +6,6 @@ AI-powered drug toxicity prediction across 12 biological assays with atomic-leve
 
 ToxLens is a machine learning system that predicts the toxicity of chemical compounds using molecular graph representations and fingerprint-based features. Given a SMILES string, ToxLens predicts toxicity risk across 12 Tox21 assay targets and highlights which atoms in the molecule drive the prediction.
 
-## Live Demo
-
-[Launch ToxLens](https://huggingface.co/spaces/Swastikraj599/ToxLens) ← *deploy to HuggingFace Spaces after hackathon*
-
 ## Key Features
 
 - **Multi-task prediction** across 12 Tox21 toxicity assays simultaneously
@@ -56,7 +52,10 @@ ToxLens/
 ├── app/
 │   └── gradio_app.py
 ├── assets/
-│   └── demo.gif
+│   └── Demo 1.1.png
+│   ├── Demo 1.2.png
+│   ├── Demo 2.1.png
+│   └── Demo 2.2.png
 ├── requirements.txt
 └── README.md
 ```
