@@ -1,1 +1,14 @@
-
+rdkit
+xgboost
+torch
+torch-geometric
+gradio
+shap
+optuna
+mlflow
+deepchem
+pandas
+numpy
+matplotlib
+seaborn
+cairosvg
